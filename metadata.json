@@ -1,0 +1,6 @@
+{
+  "name": "Vantage Dynamic Mock Test & Exam Simulator",
+  "description": "Adaptive mock test and quiz platform with real-time AI question generation, standard CBT exam simulator, question palette navigation, timed tests, detailed analytics, and deep conceptual explanations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
